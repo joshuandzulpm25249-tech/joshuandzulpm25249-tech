@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡hola! soy Joshuan David Dzul Cohuo 👋
 
-<!--
-**joshuandzulpm25249-tech/joshuandzulpm25249-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👽 sobre mi
+- 🏫 actualmente estoy estudiando en el colegio de estudios cientifico y tegnoligico del estado de campeche plantel pomuch en la especialidad de programación.
+- 📖 aprendiendo a programar en el programa de python y a utulilizar la terminal en linux mint.
 
-Here are some ideas to get you started:
+- ### 🔨 🎒 herramientas en mi mochila
+- **sistemas:** Linux mint
+- **control de verciones:** git y gitgub
+- **aprendiendo ahora:** logica de programación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*"Mi trabajo en una sola linea: deprimente"
